@@ -1,0 +1,10 @@
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\bin\Debug\netstandard2.0\telecomML.Model.deps.json
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\bin\Debug\netstandard2.0\telecomML.Model.dll
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\bin\Debug\netstandard2.0\telecomML.Model.pdb
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.csprojAssemblyReference.cache
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.AssemblyInfoInputs.cache
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.AssemblyInfo.cs
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.csproj.CoreCompileInputs.cache
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.dll
+C:\Users\koled\source\repos\notebooks\telecom\dotnet\src\telecomML.Model\obj\Debug\netstandard2.0\telecomML.Model.pdb
