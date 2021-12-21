@@ -6,7 +6,7 @@ argcomplete=1.12.3=pyhd3eb1b0_0
 argon2-cffi=20.1.0=py37h2bbff1b_1
 async_generator=1.10=py37h28b3542_0
 attrs=21.2.0=pyhd3eb1b0_0
-babel=2.9.1=pyhd3eb1b0_0
+babel>=2.9.1
 backcall=0.2.0=pyhd3eb1b0_0
 blas=1.0=mkl
 bleach=4.0.0=pyhd3eb1b0_0
